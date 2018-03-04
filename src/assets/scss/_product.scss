@@ -1,0 +1,27 @@
+.filter_cont {
+    max     : {height: 200px}
+    margin  : {bottom: 20px}
+    overflow: auto;
+    
+    .radio {
+        padding: {left: 0}
+    }
+}
+
+
+.grid-content {
+    margin: {bottom: 60px}
+}
+
+
+.prod_image {
+    display : block;
+    
+    img {
+        display : block;
+        width   : auto;
+        height  : 200px;
+        max     : {height: 100%; width: 100%}
+        margin  : 0 auto;
+    }
+}

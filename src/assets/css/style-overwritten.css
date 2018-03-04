@@ -1,0 +1,112 @@
+.product-color-list ul, .product-color-swatch ul {
+  margin: 0;
+  padding: 0;
+}
+.product-color-list ul li, .product-color-swatch ul li {
+  list-style-type: none;
+}
+.product-color-list i, .product-color-list span, .product-color-list em, .product-color-swatch i, .product-color-swatch span, .product-color-swatch em {
+  display: block;
+  font-style: normal;
+}
+.product-color-list i, .product-color-swatch i {
+  overflow: hidden;
+}
+.product-color-list i img, .product-color-swatch i img {
+  width: 100%;
+  height: 100%;
+}
+.product-color-list i {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+.product-color-list .dropdown-toggle {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #d6d6d6;
+}
+.product-color-list .dropdown-toggle i, .product-color-list .dropdown-toggle em {
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+.product-color-list .dropdown-toggle em::before {
+  font-size: 14px;
+  color: #959595;
+}
+.product-color-list .dropdown-toggle span {
+  flex-grow: 1;
+}
+.product-color-list .dropdown-menu {
+  width: 100%;
+  margin-top: 2px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d6d6d6;
+  border-radius: 0;
+}
+.product-color-list .dropdown-menu li {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #e9e9e9;
+}
+.product-color-list .dropdown-menu li:last-of-type {
+  border-bottom: none;
+}
+.product-color-list .dropdown-menu li.active span {
+  color: #eca8b5;
+}
+.product-color-swatch {
+  margin-top: 20px;
+}
+.product-color-swatch ul {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -2px;
+}
+.product-color-swatch ul li {
+  margin: 2px;
+}
+.product-color-swatch ul li i {
+  position: relative;
+  width: 41px;
+  height: 41px;
+}
+.product-color-swatch ul li i em {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.product-color-swatch ul li i em::before {
+  font-size: 10px;
+  color: #ffffff;
+}
+
+.filter_cont {
+  max-height: 200px;
+  margin-bottom: 20px;
+  overflow: auto;
+}
+.filter_cont .radio {
+  padding-left: 0;
+}
+
+.grid-content {
+  margin-bottom: 60px;
+}
+
+.prod_image {
+  display: block;
+}
+.prod_image img {
+  display: block;
+  width: auto;
+  height: 200px;
+  max-height: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}

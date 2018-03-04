@@ -1,0 +1,117 @@
+// Product colors
+.product-color {
+    &-list, &-swatch {
+        ul {
+            margin  : 0;
+            padding : 0;
+
+            li {
+                list: {style: {type: none}}
+            }
+        }
+
+        i, span, em {
+            display : block;
+            font    : {style: normal}
+        }
+
+        i {
+            overflow: hidden;
+
+            img {
+                width   : 100%;
+                height  : 100%;
+            }
+        }
+    }
+
+    // Product color list
+    &-list {
+        i {
+            width   : 20px;
+            height  : 20px;
+            margin  : {right: 10px}
+            border  : {radius: 10px}
+        }
+
+        .dropdown {
+            &-toggle {
+                display : flex;
+                align   : {items: center}
+                padding : 10px;
+                border  : 1px solid $color-brand-lgray;
+
+                i, em {
+                    flex: {grow: 0; shrink: 0}
+                }
+
+                em {
+                    &::before {
+                        font    : {size: 14px}
+                        color   : $color-brand-dgray;
+                    }
+                }
+
+                span {
+                    flex: {grow: 1}
+                }
+            }
+
+            &-menu {
+                width   : 100%;
+                margin  : {top: 2px}
+                border  : {width: 1px; style: solid; color: $color-brand-lgray; radius: 0}
+
+                li {
+                    display : flex;
+                    align   : {items: center}
+                    padding : 10px;
+                    border  : {bottom: 1px solid #e9e9e9}
+
+                    &:last-of-type {
+                        border: {bottom: none}
+                    }
+
+                    &.active {
+                        span {
+                            color: $color-brand-dpink;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    // Product color swatch
+    &-swatch {
+        margin: {top: 20px}
+
+        ul {
+            display : flex;
+            flex    : {wrap: wrap}
+            margin  : -2px;
+
+            li {
+                margin  : 2px;
+
+                i {
+                    position: relative;
+                    width   : 41px;
+                    height  : 41px;
+
+                    em {
+                        position    : absolute;
+                        top         : 50%;
+                        left        : 50%;
+                        transform   : translate(-50%, -50%);
+
+                        &::before {
+                            font    : {size: 10px}
+                            color   : $color-basic-white;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>73D8CD37-2C8B-4580-9AE3-5A5ADA826128</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="KULT-HOMEPAGE-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-165.000000, -691.000000)">
+        <g id="Wallet" transform="translate(166.000000, 692.000000)">
+            <path d="M0,3.33333333 L0,16.1904762 C0,18.2857143 1.64347826,20 3.65217391,20 L17.3478261,20 C19.3565217,20 21,18.2857143 21,16.1904762 L21,4.76190476 L1.46086957,4.76190476 C0.639130435,4.76190476 0,4.0952381 0,3.28571429 C0,3.28571429 0,3.28571429 0,3.28571429 C0,2.52380952 0.547826087,1.85714286 1.27826087,1.80952381 L19.173913,0 L19.173913,4.76190476" id="Book" stroke="#1A1A1A" stroke-width="1.5" fill="#F5E3E7"></path>
+            <path d="M16.625,9 L21,9 L21,15 L16.625,15 C15.18125,15 14,13.65 14,12 C14,10.35 15.18125,9 16.625,9 Z" id="Shape" stroke="#1A1A1A" stroke-width="1.5"></path>
+            <circle id="Oval" fill="#1A1A1A" fill-rule="nonzero" cx="17" cy="12" r="1"></circle>
+        </g>
+    </g>
+</svg>

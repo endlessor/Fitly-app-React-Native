@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="16px" viewBox="0 0 118 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>E8690481-CA73-48B6-850B-545598651E57</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="KULT-HOMEPAGE-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-607.000000, -5320.000000)">
+        <g id="Group-8" transform="translate(359.000000, 5237.000000)">
+            <g id="Rating-Stars" transform="translate(248.000000, 83.000000)">
+                <g id="Rate" transform="translate(89.000000, 0.000000)">
+                    <rect id="BG" fill="#000000" x="0" y="0" width="29" height="16"></rect>
+                    <text font-family="Lato-Black, Lato" font-size="11" font-weight="700" line-spacing="16" fill="#FFFFFF">
+                        <tspan x="6.322" y="11">4.0</tspan>
+                    </text>
+                </g>
+                <g id="Stars">
+                    <path d="M0,0 L16,0 L16,16 L0,16 L0,0 Z M8,10.5 L10.9389263,12.045085 L10.3776413,8.77254249 L12.7552826,6.45491503 L9.46946313,5.97745751 L8,3 L6.53053687,5.97745751 L3.24471742,6.45491503 L5.62235871,8.77254249 L5.06107374,12.045085 L8,10.5 Z" id="Combined-Shape" fill="#E38E9E"></path>
+                    <path d="M17,0 L33,0 L33,16 L17,16 L17,0 Z M25,10.5 L27.9389263,12.045085 L27.3776413,8.77254249 L29.7552826,6.45491503 L26.4694631,5.97745751 L25,3 L23.5305369,5.97745751 L20.2447174,6.45491503 L22.6223587,8.77254249 L22.0610737,12.045085 L25,10.5 Z" id="Combined-Shape-Copy" fill="#E38E9E"></path>
+                    <path d="M34,0 L50,0 L50,16 L34,16 L34,0 Z M42,10.5 L44.9389263,12.045085 L44.3776413,8.77254249 L46.7552826,6.45491503 L43.4694631,5.97745751 L42,3 L40.5305369,5.97745751 L37.2447174,6.45491503 L39.6223587,8.77254249 L39.0610737,12.045085 L42,10.5 Z" id="Combined-Shape-Copy-2" fill="#E38E9E"></path>
+                    <path d="M51,0 L67,0 L67,16 L51,16 L51,0 Z M59,10.5 L61.9389263,12.045085 L61.3776413,8.77254249 L63.7552826,6.45491503 L60.4694631,5.97745751 L59,3 L57.5305369,5.97745751 L54.2447174,6.45491503 L56.6223587,8.77254249 L56.0610737,12.045085 L59,10.5 Z" id="Combined-Shape-Copy-3" fill="#E38E9E"></path>
+                    <path d="M68,0 L84,0 L84,16 L68,16 L68,0 Z M76,10.5 L78.9389263,12.045085 L78.3776413,8.77254249 L80.7552826,6.45491503 L77.4694631,5.97745751 L76,3 L74.5305369,5.97745751 L71.2447174,6.45491503 L73.6223587,8.77254249 L73.0610737,12.045085 L76,10.5 Z" id="Combined-Shape-Copy-4" fill="#959595"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
